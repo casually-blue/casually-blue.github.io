@@ -1,4 +1,4 @@
-name: Publish Site
+name: Publish Hugo Site
 
 on:
   push:
