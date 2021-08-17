@@ -2,3 +2,8 @@ baseURL = 'https://casually-blue.github.io'
 languageCode = 'en-us'
 title = 'Casually-Blue\'s Blog'
 theme="archie"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
